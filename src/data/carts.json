@@ -1,0 +1,22 @@
+[
+    {
+      "timestamp": 1667357210689,
+      "_id": "6361da1ab8ce95ebe56c5dce",
+      "products": [
+        {
+          "nombre": "Prueba 10",
+          "descripcion": "3 litros",
+          "url": "www.saraza/com/cbz.jpeg",
+          "codigo": 1200,
+          "stock": 15,
+          "precio": 200,
+          "_id": "6361da550df54d425c8f33a0"
+        }
+      ]
+    },
+    {
+      "timestamp": 1667358454819,
+      "_id": "6361def6e5e97ff5c7bbfb89",
+      "products": []
+    }
+  ]
